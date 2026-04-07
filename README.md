@@ -1,6 +1,8 @@
 # xtcadfcoint
 Panel CADF cointegration test with structural breaks and cross-section dependence Use xtcadfcoint With STATA 19
 
+https://www.youtube.com/watch?v=pCIXDDBQDH8
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
